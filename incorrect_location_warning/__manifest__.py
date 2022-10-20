@@ -10,5 +10,5 @@
     ],
     'license': 'Other proprietary',
     'installable': True,
-    'description' : "The module shows a warning whenever a product unit is tried to be moved from a location diferent as teh picking origin location.",
+    'description' : "The module shows a warning whenever a product unit is tried to be moved from a location diferent as the picking origin location.",
 }
